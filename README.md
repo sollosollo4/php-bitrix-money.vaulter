@@ -1,2 +1,2 @@
 # php-bitrix-money.vaulter
-![alt text](/scree1.png)
+![alt text](screen1.png)
